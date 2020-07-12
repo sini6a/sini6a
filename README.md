@@ -1,4 +1,4 @@
-### Hi there :wave:!
+### Hi there :wave:
 
 Welcome to my GitHub page. Feel free to look around and check my projects or visit my blog at www.sini6a.info.
 
