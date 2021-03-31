@@ -1,6 +1,6 @@
 ### Hi there :wave:
 
-Welcome to my GitHub page. Feel free to look around and check my projects or visit my blog at www.sini6a.info.
+Welcome to my GitHub page. Feel free to look around and check my projects or visit my blog at sini6a.github.io.
 
 Have a nice day/night!
 
