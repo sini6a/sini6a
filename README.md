@@ -1,8 +1,17 @@
-### Hi there :wave:
-
-Welcome to my GitHub page. Feel free to look around and check my projects or visit my blog at sini6a.github.io.
-
-Have a nice day/night!
+```bash
+sini6a@github ~> about-me-tree
+.
+└── Sinisha Stojchevski
+    ├── Software Developer
+    │   └── robust coding techniques
+    ├── Entrepreneur
+    │   └── founder at ctrl.mk
+    ├── FOSS Enthusiast
+    │   └── active linux user/contributor
+    ├── Born: 1996/05/01
+    ├── Situated: Gothenburg > Sweden
+    └── Web: sini6a.github.io
+```
 
 <!--
 **sini6a/sini6a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
