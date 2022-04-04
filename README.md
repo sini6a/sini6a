@@ -5,7 +5,8 @@ sini6a@github ~> about-me-tree
     ├── Software Developer
     │   └── robust coding techniques
     ├── Entrepreneur
-    │   └── founder at ctrl.mk
+    │   ├── founder at ctrl.mk
+    │   └── founder at nodus.nu
     ├── FOSS Enthusiast
     │   └── active linux user/contributor
     ├── Born: 1996/05/01
