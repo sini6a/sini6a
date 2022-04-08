@@ -11,7 +11,7 @@ sini6a@github ~> about-me-tree
     │   └── active linux user/contributor
     ├── Born: 1996/05/01
     ├── Situated: Gothenburg > Sweden
-    └── Web: sini6a.github.io
+    └── Web: stojchevski.com
 ```
 
 <!--
